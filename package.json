@@ -36,7 +36,7 @@
     "hash",
     "typescript"
   ],
-  "author": "Astrax",
+  "author": "Smokyy",
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^20.14.0",
